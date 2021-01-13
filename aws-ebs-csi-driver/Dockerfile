@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/provider-aws/aws-ebs-csi-driver:v0.8.1
